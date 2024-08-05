@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmanHasn
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning front-end development
+- 👀 I’m interested in software engineering.
+- 🌱 I’m currently learning software testing.
 - 📫 How to reach me by email: emanhhsacr@gmail.com
 
 <!---
