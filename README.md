@@ -1,4 +1,4 @@
-<h1 style="color=red;">👋 Hi, I’m EmanHasn</h1> 
+<h1 style="color:red;">👋 Hi, I’m EmanHassan</h1> 
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning software testing.
 - 📫 How to reach me by email: emanhhsacr@gmail.com
