@@ -7,7 +7,7 @@
   <li>C++</li>
   <li>Javascript - node</li>
   <li>HTML&CSS</li>
-  <li>SQL</li>
+  <li>Datebase: SQL - Mongodb</li>
 </ul>
 <h5>📫 How to reach me by email: emanhhsacr@gmail.com</h5>
 
