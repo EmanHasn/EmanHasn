@@ -1,5 +1,6 @@
-<h1 style="color:red;">👋 Hi, I’m Eman Hassan</h1> 
-<h2>software tester</h2>
+
+<h1>👋 Hi, I’m Eman Hassan</h1> 
+<h2>Software Test Engineer | QC Software Engineer | Manual Testing | Automation Testing | API Testing | DataBase Testing</h2>
 <p>My Skills in coding:</p>
 <ul>
   <li>Selenium</li>
@@ -15,3 +16,4 @@
 EmanHasn/EmanHasn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
